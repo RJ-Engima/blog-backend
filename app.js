@@ -9,6 +9,7 @@ import imoprtRoutes from './routes/import.route.js';
 import commentRoutes from './routes/coment.route.js';
 import dotenv from 'dotenv'
 import { customMiddleware } from './config/middleware.js';
+import serverless from "serverless-http";
 
 const app = express();
 dotenv.config()
@@ -17,10 +18,10 @@ app.use(bodyParser.json({ limit: '50mb' }));
 app.use(bodyParser.urlencoded({ limit: '100mb', extended: true }));
 app.use(customMiddleware);
 // Routes
-app.use('/posts', postRoutes);
-app.use('/users', userRoutes);
-app.use('/comments', commentRoutes);
-app.use('/import', imoprtRoutes)
+app.use('/api/posts', postRoutes);
+app.use('/api/users', userRoutes);
+app.use('/api/comments', commentRoutes);
+app.use('/api/import', imoprtRoutes)
 
 // Error handling middleware
 app.use((err, req, res, next) => {
@@ -39,3 +40,5 @@ app.listen(process.env.PORT, () => {
         handleError(error);
     }
 });
+
+export const handler = serverless(app);
