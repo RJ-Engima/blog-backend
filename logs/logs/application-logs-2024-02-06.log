@@ -1,0 +1,22 @@
+info: Server is running on port 2000 || timestamp: 06-02-2024 9:58:41 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 9:58:41 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:00:16 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:00:16 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:00:20 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:00:20 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:00:36 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:00:36 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:01:5 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:01:5 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:01:57 AM 
+error: DEV-Database connection unsuccessfull || timestamp: 06-02-2024 10:01:58 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:02:17 AM 
+error: Password cannot be empty || timestamp: 06-02-2024 10:02:17 AM 
+error: DEV-Database connection unsuccessfull || timestamp: 06-02-2024 10:02:17 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:02:26 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:02:27 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:02:54 AM 
+error: bad auth : authentication failed || timestamp: 06-02-2024 10:02:55 AM 
+error: DEV-Database connection unsuccessfull || timestamp: 06-02-2024 10:02:55 AM 
+info: Server is running on port 2000 || timestamp: 06-02-2024 10:03:3 AM 
+warn: DEV-Database connection Successfull || timestamp: 06-02-2024 10:03:4 AM 

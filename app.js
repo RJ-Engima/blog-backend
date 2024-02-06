@@ -32,13 +32,13 @@ app.use((err, req, res, next) => {
 // Start the server
 app.listen(process.env.PORT, () => {
     logger.info(`Server is running on port ${process.env.PORT}`);
-    try {
-        mongoose.connect(config.databaseURL);
+    mongoose.connect(process.env.MONGO_URL).then(()=>{
         logger.warn("DEV-Database connection Successfull")
-    } catch (error) {
+    }).catch((error)=>{
+        logger.error(error)
         logger.error('DEV-Database connection unsuccessfull')
-        handleError(error);
-    }
+
+    });
 });
 
 export const handler = serverless(app);
