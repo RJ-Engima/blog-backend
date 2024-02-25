@@ -1,6 +1,5 @@
-// controllers/commentController.js
-import Comment from '../models/comment.model';
-import logger from '../config/logger';
+import Comment from '../models/comment.model.js';
+import logger from '../config/logger.js';
 
 export const getAllComments = async (req, res) => {
   try {

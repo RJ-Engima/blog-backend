@@ -1,0 +1,997 @@
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:19:58 AM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:19:58 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:20:4 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:20:4 AM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:21:9 AM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:21:9 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:21:26 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:21:26 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:21:26 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:21:26 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:21:35 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:21:35 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:21:35 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:21:35 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:22:34 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:22:34 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:22:34 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:22:34 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:25:52 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:25:52 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:25:52 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:25:52 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:26:32 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:26:32 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:26:32 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:26:32 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:27:55 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:27:56 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:27:56 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:27:56 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:29:21 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:29:22 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:29:22 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:29:22 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:29:57 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:29:57 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:29:57 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:29:57 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:30:25 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:30:25 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:30:25 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:30:25 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:32:41 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:32:41 AM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 12:32:41 AM 
+info: Success in fetching data || timestamp: 12-02-2024 12:32:41 AM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:29:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:29:25 PM 
+error: Error retrieving analytics data: 7 PERMISSION_DENIED: User does not have sufficient permissions for this property. To learn more about Property ID, see https://developers.google.com/analytics/devguides/reporting/data/v1/property-id. || timestamp: 12-02-2024 12:29:25 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:32:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:32:59 PM 
+info: Response: || timestamp: 12-02-2024 12:33:0 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:33:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:33:59 PM 
+info: Response: || timestamp: 12-02-2024 12:34:0 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:34:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:34:18 PM 
+info: Response: || timestamp: 12-02-2024 12:34:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:34:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:34:39 PM 
+error: Error retrieving analytics data: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 12:34:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:34:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:34:55 PM 
+info: Response: || timestamp: 12-02-2024 12:34:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:35:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:35:18 PM 
+info: Response: || timestamp: 12-02-2024 12:35:20 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:35:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:35:27 PM 
+info: Response: || timestamp: 12-02-2024 12:35:28 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:35:57 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:35:57 PM 
+info: Response: || timestamp: 12-02-2024 12:35:59 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:38:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:38:32 PM 
+info: Response: || timestamp: 12-02-2024 12:38:34 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:39:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:39:9 PM 
+info: Response: || timestamp: 12-02-2024 12:39:11 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:40:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:40:14 PM 
+info: Response: || timestamp: 12-02-2024 12:40:15 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:42:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:42:19 PM 
+error: Error retrieving analytics data: 7 PERMISSION_DENIED: User does not have sufficient permissions for this property. To learn more about Property ID, see https://developers.google.com/analytics/devguides/reporting/data/v1/property-id. || timestamp: 12-02-2024 12:42:21 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:43:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:43:17 PM 
+info: Response: || timestamp: 12-02-2024 12:43:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:44:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:44:4 PM 
+info: Response: || timestamp: 12-02-2024 12:44:5 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:45:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:45:25 PM 
+error: Error retrieving analytics data: undefined is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 12:45:26 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:45:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:45:44 PM 
+error: Error retrieving analytics data: undefined is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 12:45:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 12:46:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 12:46:18 PM 
+info: Response: || timestamp: 12-02-2024 12:46:20 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:15:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:15:51 PM 
+info: Response: || timestamp: 12-02-2024 1:15:53 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:16:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:16:2 PM 
+info: Response: || timestamp: 12-02-2024 1:16:3 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:16:10 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:16:10 PM 
+info: Response: || timestamp: 12-02-2024 1:16:11 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:16:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:16:54 PM 
+info: Response: || timestamp: 12-02-2024 1:16:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:17:1 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:17:1 PM 
+info: Response: || timestamp: 12-02-2024 1:17:3 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:26:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:26:45 PM 
+info: Response: || timestamp: 12-02-2024 1:26:47 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:31:16 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:31:16 PM 
+info: Response: || timestamp: 12-02-2024 1:31:20 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:31:40 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:31:40 PM 
+info: Response: || timestamp: 12-02-2024 1:31:43 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:35:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:35:3 PM 
+info: Response: || timestamp: 12-02-2024 1:35:6 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:35:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:35:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:36:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:36:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:40:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:40:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:40:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:40:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:40:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:40:48 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:43:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:43:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:44:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:44:15 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:46:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:46:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:49:12 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:49:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:50:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:50:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 1:50:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 1:50:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:33:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:33:6 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:33:34 PM 
+error: Error retrieving analytics data: google is not defined || timestamp: 12-02-2024 2:33:34 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:33:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:33:52 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:33:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:34:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:34:29 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:34:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:34:37 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:34:46 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:36:10 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:36:10 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:36:15 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:36:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:36:54 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:36:59 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:39:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:39:9 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:39:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:39:46 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:39:46 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:39:50 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:40:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:40:57 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:40:59 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:45:16 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:45:16 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:45:21 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:46:34 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:46:34 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:46:38 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:47:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:47:3 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:47:8 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:47:26 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:47:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:47:32 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:47:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:50:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:50:25 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:50:29 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:50:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:50:56 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:51:0 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:55:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:55:35 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:55:38 PM 
+error: Error retrieving analytics data: iteration is not defined || timestamp: 12-02-2024 2:55:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:55:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:55:49 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:55:51 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 2:56:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 2:56:17 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 2:56:22 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:00:38 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:00:38 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:00:42 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:01:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:01:22 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:01:25 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:02:21 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:04:54 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:11:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:17:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:17:39 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:17:42 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:19:50 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:19:50 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:19:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:21:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:21:3 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:21:10 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:28:18 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:28:57 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:30:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:34:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:34:22 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:34:29 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:38:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:38:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:41:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:41:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:51:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:51:14 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:51:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:51:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:53:21 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:53:21 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:53:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:53:33 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:53:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:53:49 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:54:12 PM 
+error: Error retrieving analytics data: Cannot read properties of undefined (reading 'replace') || timestamp: 12-02-2024 3:54:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:54:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:54:31 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:54:36 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 3:54:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:55:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:55:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:56:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:56:14 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:56:19 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 3:56:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:57:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:57:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:57:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:57:23 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 3:58:13 PM 
+error: Error retrieving analytics data: Cannot read properties of undefined (reading 'replace') || timestamp: 12-02-2024 3:58:13 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 3:59:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 3:59:54 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:05:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:05:39 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:06:9 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:06:9 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:06:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:06:23 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:06:28 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:06:28 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:07:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:07:54 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:09:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:09:2 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:09:5 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:09:6 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:09:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:09:55 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:10:2 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:10:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:12:43 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:12:43 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:13:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:13:23 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:13:30 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 4:13:30 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:13:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:13:54 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:13:58 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 4:13:58 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:15:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:15:4 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:16:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:16:23 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:16:35 PM 
+error: Error retrieving analytics data: Cannot read properties of undefined (reading 'replace') || timestamp: 12-02-2024 4:16:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:17:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:17:4 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:17:9 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 4:17:9 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:18:21 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:18:21 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:18:58 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:18:58 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:19:3 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:19:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:19:42 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:19:47 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 4:19:48 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:20:13 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:20:13 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:20:17 PM 
+error: Error retrieving analytics data: Could not load the default credentials. Browse to https://cloud.google.com/docs/authentication/getting-started for more information. || timestamp: 12-02-2024 4:20:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:20:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:20:31 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:20:37 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:26:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:26:3 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:26:26 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:26:26 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:26:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:26:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:27:8 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:27:8 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:27:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:27:27 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:27:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:27:47 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:27:52 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:27:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:28:26 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:28:26 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:28:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:28:31 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:28:35 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:28:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:29:34 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:29:34 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:29:38 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:29:38 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:30:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:30:3 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:30:13 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:30:13 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:30:16 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:30:16 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:30:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:30:45 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:31:5 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:31:5 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:31:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:31:32 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:31:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:31:38 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:31:41 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:31:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:32:12 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:32:12 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:32:16 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:32:16 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:33:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:33:23 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:33:27 PM 
+error: Error retrieving analytics data: || timestamp: 12-02-2024 4:33:28 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:35:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:35:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:35:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:35:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:35:59 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:35:59 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:36:2 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:36:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:36:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:36:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:38:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:38:27 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:38:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:38:54 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:39:0 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:39:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:39:9 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:39:12 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:39:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:39:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:39:45 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:39:49 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:39:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:39:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:39:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:40:28 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:40:28 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:40:33 PM 
+error: Error retrieving analytics data: || timestamp: 12-02-2024 4:40:33 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:40:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:40:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:41:11 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:41:11 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:41:16 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:41:16 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:41:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:41:29 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:41:46 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:41:46 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:42:40 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:42:40 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:42:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:43:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:43:14 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:43:18 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:43:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:43:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:44:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:44:14 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:44:16 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:44:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:44:36 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:44:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:46:1 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:46:1 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:46:8 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:46:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:46:33 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:46:37 PM 
+error: Error retrieving analytics data: object is not iterable (cannot read property Symbol(Symbol.iterator)) || timestamp: 12-02-2024 4:46:38 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:47:30 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:47:30 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:47:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:48:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:48:15 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:48:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:48:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:49:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:49:27 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:49:34 PM 
+info: Success retrieving analytics data || timestamp: 12-02-2024 4:49:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:50:43 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:50:43 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 4:52:0 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 4:52:0 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:52:3 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:52:3 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:52:3 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:52:3 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:3 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:3 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:3 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:4 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:4 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:4 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:4 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:5 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:10 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:10 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:10 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:10 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:12 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:12 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:53:12 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:53:13 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:54:24 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:54:24 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:54:24 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:54:24 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:30 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:31 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:31 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:31 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:42 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:42 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:42 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:42 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:55 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:56 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 4:55:56 PM 
+info: Success in fetching data || timestamp: 12-02-2024 4:55:56 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:16:20 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:16:20 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:16:20 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:16:20 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:39:54 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:39:54 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:39:54 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:39:55 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:39:56 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:39:56 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:39:56 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:39:56 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:2 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:2 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:2 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:2 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:3 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:4 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:4 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:4 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:7 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:7 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:7 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:7 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:8 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:8 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:8 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:8 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:41 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:41 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 5:40:41 PM 
+info: Success in fetching data || timestamp: 12-02-2024 5:40:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 5:53:40 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 5:53:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 5:54:28 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 5:54:28 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 5:54:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 5:54:54 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 5:56:0 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 5:56:0 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:07:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:07:47 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:08:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:08:32 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:09:41 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:09:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:09:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:09:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:12:41 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:12:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:14:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:14:51 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:15:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:15:23 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:32:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:32:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:42:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:42:53 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:43:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:43:6 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:43:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:43:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:43:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:43:29 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:46:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:46:25 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:46:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:46:33 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:46:41 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:46:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:55:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:55:29 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 6:55:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 6:55:44 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:09:13 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:09:13 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:14:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:14:14 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:15:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:15:4 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:15:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:15:54 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:16:9 PM 
+error: commentItem is not defined || timestamp: 12-02-2024 7:16:9 PM 
+error: Unknown error: commentItem is not defined || timestamp: 12-02-2024 7:16:9 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:16:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:16:48 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:16:52 PM 
+error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., lastname: Path `lastname` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:16:52 PM 
+error: Unknown error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., lastname: Path `lastname` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:16:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:21:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:21:22 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:21:37 PM 
+error: User validation failed: lastname: Path `lastname` is required. || timestamp: 12-02-2024 7:21:37 PM 
+error: Unknown error: User validation failed: lastname: Path `lastname` is required. || timestamp: 12-02-2024 7:21:37 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:22:28 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:22:28 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:22:49 PM 
+error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:22:50 PM 
+error: Unknown error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:22:50 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:23:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:23:54 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:23:59 PM 
+error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:23:59 PM 
+error: Unknown error: User validation failed: authod_id: Path `authod_id` is required., role: Path `role` is required., password: Path `password` is required., email: Path `email` is required., firstname: Path `firstname` is required., username: Path `username` is required. || timestamp: 12-02-2024 7:23:59 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:26:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:26:52 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:26:56 PM 
+error: document must have an _id before saving || timestamp: 12-02-2024 7:26:57 PM 
+error: Unknown error: document must have an _id before saving || timestamp: 12-02-2024 7:26:57 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:28:1 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:28:1 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:28:17 PM 
+error: document must have an _id before saving || timestamp: 12-02-2024 7:28:17 PM 
+error: Unknown error: document must have an _id before saving || timestamp: 12-02-2024 7:28:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:28:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:28:37 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:28:42 PM 
+error: document must have an _id before saving || timestamp: 12-02-2024 7:28:42 PM 
+error: Unknown error: document must have an _id before saving || timestamp: 12-02-2024 7:28:42 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:33:11 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:33:11 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:33:18 PM 
+error: document must have an _id before saving || timestamp: 12-02-2024 7:33:18 PM 
+error: Unknown error: document must have an _id before saving || timestamp: 12-02-2024 7:33:18 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:37:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:37:15 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:37:21 PM 
+error: item.map is not a function || timestamp: 12-02-2024 7:37:21 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 7:37:21 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:38:43 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:38:43 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:38:46 PM 
+error: item.map is not a function || timestamp: 12-02-2024 7:38:47 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 7:38:47 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:39:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:39:52 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:39:56 PM 
+error: item.map is not a function || timestamp: 12-02-2024 7:39:56 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 7:39:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:40:13 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:40:13 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:40:16 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:40:16 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:40:36 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:40:36 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:40:36 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:42:40 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:42:40 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:42:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:43:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:43:48 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:43:56 PM 
+error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 7:43:56 PM 
+error: Unknown error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 7:43:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:44:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:44:51 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:44:55 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:44:55 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:44:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:46:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:46:18 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:46:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:46:37 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:46:42 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:46:42 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:46:42 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:47:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:47:42 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:47:57 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:47:57 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:47:57 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:48:16 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:48:16 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:48:19 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:48:20 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:48:20 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:49:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:49:29 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:49:33 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:49:33 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:49:33 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:50:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:50:2 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:50:5 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:50:6 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:50:6 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:50:21 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:50:21 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:50:26 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:50:26 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., content: Path `content` is required., title: Path `title` is required. || timestamp: 12-02-2024 7:50:26 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:52:17 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:52:18 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:52:24 PM 
+error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 7:52:25 PM 
+error: Unknown error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 7:52:25 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:52:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:52:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:56:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:56:45 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:57:2 PM 
+error: item.map is not a function || timestamp: 12-02-2024 7:57:2 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 7:57:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 7:59:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 7:59:31 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 7:59:35 PM 
+error: item.map is not a function || timestamp: 12-02-2024 7:59:35 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 7:59:35 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:00:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:00:32 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:00:37 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:00:37 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:00:37 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:01:35 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:01:35 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:01:39 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:01:39 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:01:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:02:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:02:49 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:02:53 PM 
+error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 8:02:53 PM 
+error: Unknown error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 8:02:53 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:03:34 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:03:34 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:03:38 PM 
+error: item?.map is not a function || timestamp: 12-02-2024 8:03:38 PM 
+error: Unknown error: item?.map is not a function || timestamp: 12-02-2024 8:03:38 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:05:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:05:19 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:05:31 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:05:31 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:05:31 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:06:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:06:33 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:06:37 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:06:37 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:06:37 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:06:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:06:56 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:07:1 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:07:2 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:07:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:07:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:07:52 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:07:55 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:07:56 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:07:56 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:09:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:09:47 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:09:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:09:52 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:10:14 PM 
+error: item.map is not a function || timestamp: 12-02-2024 8:10:15 PM 
+error: Unknown error: item.map is not a function || timestamp: 12-02-2024 8:10:15 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:11:43 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:11:43 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:11:50 PM 
+error: Comment validation failed: comment_author: Path `comment_author` is required., post: Path `post` is required. || timestamp: 12-02-2024 8:11:51 PM 
+error: Unknown error: Comment validation failed: comment_author: Path `comment_author` is required., post: Path `post` is required. || timestamp: 12-02-2024 8:11:51 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:12:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:12:23 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:12:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:12:48 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:12:53 PM 
+error: Comment validation failed: post: Path `post` is required. || timestamp: 12-02-2024 8:12:54 PM 
+error: Unknown error: Comment validation failed: post: Path `post` is required. || timestamp: 12-02-2024 8:12:54 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:13:33 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:13:33 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:14:7 PM 
+error: Comment validation failed: post_id: Path `post_id` is required. || timestamp: 12-02-2024 8:14:8 PM 
+error: Unknown error: Comment validation failed: post_id: Path `post_id` is required. || timestamp: 12-02-2024 8:14:8 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:17:0 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:17:0 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:17:4 PM 
+error: Comment validation failed: post_id: Path `post_id` is required. || timestamp: 12-02-2024 8:17:4 PM 
+error: Unknown error: Comment validation failed: post_id: Path `post_id` is required. || timestamp: 12-02-2024 8:17:4 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:17:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:17:32 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:18:7 PM 
+error: document must have an _id before saving || timestamp: 12-02-2024 8:18:7 PM 
+error: Unknown error: document must have an _id before saving || timestamp: 12-02-2024 8:18:7 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:18:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:18:44 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:18:46 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:18:46 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:18:50 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:18:50 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:18:58 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:18:58 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:19:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:19:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:19:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:19:6 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:19:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:19:9 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:19:14 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:19:14 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:19:18 PM 
+error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 8:19:18 PM 
+error: Unknown error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 8:19:18 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:19:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:19:37 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:19:42 PM 
+error: Post validation failed: content: Path `content` is required. || timestamp: 12-02-2024 8:19:43 PM 
+error: Unknown error: Post validation failed: content: Path `content` is required. || timestamp: 12-02-2024 8:19:43 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:22:16 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:22:16 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 8:24:50 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 8:24:50 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 8:24:55 PM 
+error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "GDPR in a Nutshell" } || timestamp: 12-02-2024 8:24:55 PM 
+error: Unknown error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "GDPR in a Nutshell" } || timestamp: 12-02-2024 8:24:55 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 8:25:41 PM 
+info: Success in fetching data || timestamp: 12-02-2024 8:25:42 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 8:25:42 PM 
+info: Success in fetching data || timestamp: 12-02-2024 8:25:42 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:31:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:31:29 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:31:40 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:31:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:34:50 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:34:50 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:34:53 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:34:53 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:35:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:35:31 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:35:33 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:35:33 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:37:20 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:37:20 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:37:24 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:37:24 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:37:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:37:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:38:6 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:38:6 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:38:11 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:38:11 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:41:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:41:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:41:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:41:56 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:42:10 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:42:10 PM 
+error: Array.isArray(...).map is not a function || timestamp: 12-02-2024 9:42:10 PM 
+error: Unknown error: Array.isArray(...).map is not a function || timestamp: 12-02-2024 9:42:10 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:42:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:42:39 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:42:43 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:42:43 PM 
+error: item.comment.map is not a function || timestamp: 12-02-2024 9:42:43 PM 
+error: Unknown error: item.comment.map is not a function || timestamp: 12-02-2024 9:42:43 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:44:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:44:4 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:44:7 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:44:7 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:44:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:44:45 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:44:47 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:44:47 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:45:9 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:45:9 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:45:12 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:45:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:45:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:45:47 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:45:51 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:45:51 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:48:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:48:15 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:48:19 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:48:19 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:48:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:48:55 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:49:1 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:49:1 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:49:21 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:49:21 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:49:25 PM 
+error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 9:49:25 PM 
+error: Unknown error: Cannot read properties of undefined (reading 'map') || timestamp: 12-02-2024 9:49:25 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:51:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:51:7 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:51:21 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:51:21 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:51:24 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:51:24 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:52:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:52:15 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:52:23 PM 
+error: Cannot read properties of undefined (reading '__cdata') || timestamp: 12-02-2024 9:52:23 PM 
+error: Unknown error: Cannot read properties of undefined (reading '__cdata') || timestamp: 12-02-2024 9:52:23 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:53:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:53:15 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:53:20 PM 
+error: Cannot read properties of undefined (reading '__cdata') || timestamp: 12-02-2024 9:53:20 PM 
+error: Unknown error: Cannot read properties of undefined (reading '__cdata') || timestamp: 12-02-2024 9:53:20 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:55:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:55:53 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:55:58 PM 
+error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., title: Path `title` is required. || timestamp: 12-02-2024 9:55:58 PM 
+error: Unknown error: Post validation failed: post_date: Path `post_date` is required., author: Path `author` is required., title: Path `title` is required. || timestamp: 12-02-2024 9:55:58 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:56:22 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:56:22 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:56:26 PM 
+info: Data imported successfully || timestamp: 12-02-2024 9:56:27 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:56:55 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:56:55 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 9:58:8 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 9:58:8 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:58:23 PM 
+error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 9:58:23 PM 
+error: Unknown error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 9:58:23 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 9:59:10 PM 
+error: Comment validation failed: comment_content: Path `comment_content` is required., comment_author: Path `comment_author` is required., comment_id: Path `comment_id` is required. || timestamp: 12-02-2024 9:59:10 PM 
+error: Unknown error: Comment validation failed: comment_content: Path `comment_content` is required., comment_author: Path `comment_author` is required., comment_id: Path `comment_id` is required. || timestamp: 12-02-2024 9:59:10 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:00:8 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:00:8 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:00:19 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:00:19 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:00:22 PM 
+error: commentItem is not defined || timestamp: 12-02-2024 10:00:22 PM 
+error: Unknown error: commentItem is not defined || timestamp: 12-02-2024 10:00:22 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:00:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:00:36 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:00:41 PM 
+error: Comment validation failed: comment_content: Path `comment_content` is required. || timestamp: 12-02-2024 10:00:41 PM 
+error: Unknown error: Comment validation failed: comment_content: Path `comment_content` is required. || timestamp: 12-02-2024 10:00:41 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:05:2 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:05:2 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:10:49 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:10:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:13:48 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:13:48 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:13:57 PM 
+error: item.comments.map is not a function || timestamp: 12-02-2024 10:13:57 PM 
+error: Unknown error: item.comments.map is not a function || timestamp: 12-02-2024 10:13:57 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:14:23 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:14:23 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:14:27 PM 
+error: Array.isArray(...).map is not a function || timestamp: 12-02-2024 10:14:27 PM 
+error: Unknown error: Array.isArray(...).map is not a function || timestamp: 12-02-2024 10:14:27 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:14:54 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:14:54 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:14:58 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:14:58 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:16:3 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:16:3 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:16:9 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:16:12 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:19:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:19:37 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:19:44 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:19:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:20:29 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:20:29 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:20:33 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:20:40 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:22:38 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:22:38 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:24:45 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:24:45 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:25:37 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:25:37 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:26:15 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:26:25 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:27:35 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:27:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:29:15 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:29:15 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:29:37 PM 
+info: Data imported successfully || timestamp: 12-02-2024 10:29:46 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:35:39 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:35:39 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:47:36 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:47:36 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:48:20 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:48:20 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 10:48:53 PM 
+error: Comment validation failed: comment_parent: Cast to ObjectId failed for value "0" (type number) at path "comment_parent" because of "BSONError" || timestamp: 12-02-2024 10:48:53 PM 
+error: Unknown error: Comment validation failed: comment_parent: Cast to ObjectId failed for value "0" (type number) at path "comment_parent" because of "BSONError" || timestamp: 12-02-2024 10:48:53 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:49:52 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:49:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:55:51 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:55:51 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 10:56:11 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 10:56:11 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 11:00:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 11:00:7 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:00:16 PM 
+info: Data imported successfully || timestamp: 12-02-2024 11:00:18 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:01:51 PM 
+error: Post validation failed: publishDate: Cast to date failed for value "Invalid Date" (type Date) at path "publishDate" || timestamp: 12-02-2024 11:01:52 PM 
+error: Unknown error: Post validation failed: publishDate: Cast to date failed for value "Invalid Date" (type Date) at path "publishDate" || timestamp: 12-02-2024 11:01:52 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 11:03:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 11:03:8 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:04:45 PM 
+info: Data imported successfully || timestamp: 12-02-2024 11:04:46 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 11:10:57 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 11:10:57 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:11:46 PM 
+info: Data imported successfully || timestamp: 12-02-2024 11:11:49 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 11:13:0 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 11:13:0 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:13:5 PM 
+error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 11:13:6 PM 
+error: Unknown error: E11000 duplicate key error collection: blog.posts index: title_1 dup key: { title: "Elevate your Banking Operations with our Integrated Debit Card Management System" } || timestamp: 12-02-2024 11:13:6 PM 
+info: Blog data import API hit || timestamp: 12-02-2024 11:13:15 PM 
+info: Data imported successfully || timestamp: 12-02-2024 11:13:17 PM 
+info: Server is running on port 2000 || timestamp: 12-02-2024 11:19:25 PM 
+warn: DEV-Database connection Successfull || timestamp: 12-02-2024 11:19:26 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 11:24:8 PM 
+info: Success in fetching data || timestamp: 12-02-2024 11:24:9 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 11:24:9 PM 
+info: Success in fetching data || timestamp: 12-02-2024 11:24:9 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 11:24:10 PM 
+info: Success in fetching data || timestamp: 12-02-2024 11:24:10 PM 
+info: Fetching Post API hit.... || timestamp: 12-02-2024 11:24:10 PM 
+info: Success in fetching data || timestamp: 12-02-2024 11:24:10 PM 

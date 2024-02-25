@@ -1,0 +1,512 @@
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:25:20 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:25:20 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:25:41 AM 
+error: Comment validation failed: comment_content: Path `comment_content` is required., comment_author: Path `comment_author` is required., comment_id: Path `comment_id` is required. || timestamp: 13-02-2024 9:25:41 AM 
+error: Unknown error: Comment validation failed: comment_content: Path `comment_content` is required., comment_author: Path `comment_author` is required., comment_id: Path `comment_id` is required. || timestamp: 13-02-2024 9:25:41 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:26:5 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:26:5 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:26:39 AM 
+info: Data imported successfully || timestamp: 13-02-2024 9:26:40 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:27:14 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:27:14 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:51:8 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:51:8 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:51:34 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:51:34 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:53:42 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:53:42 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:54:21 AM 
+error: Post validation failed: publishDate: Cast to date failed for value "Invalid Date" (type Date) at path "publishDate" || timestamp: 13-02-2024 9:54:22 AM 
+error: Unknown error: Post validation failed: publishDate: Cast to date failed for value "Invalid Date" (type Date) at path "publishDate" || timestamp: 13-02-2024 9:54:22 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:55:21 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:55:21 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:55:25 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:55:52 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:55:52 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:57:11 AM 
+error: Cannot destructure property 'importedCommentCount' of '(intermediate value)' as it is undefined. || timestamp: 13-02-2024 9:57:51 AM 
+error: Unknown error: Cannot destructure property 'importedCommentCount' of '(intermediate value)' as it is undefined. || timestamp: 13-02-2024 9:57:51 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:59:27 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:59:27 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:59:31 AM 
+error: importedCommentCount is not defined || timestamp: 13-02-2024 9:59:31 AM 
+error: Unknown error: importedCommentCount is not defined || timestamp: 13-02-2024 9:59:31 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:59:48 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:59:48 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:59:52 AM 
+info: Data imported successfully || timestamp: 13-02-2024 9:59:52 AM 
+error: importedCommentCount is not defined || timestamp: 13-02-2024 9:59:52 AM 
+error: Unknown error: importedCommentCount is not defined || timestamp: 13-02-2024 9:59:52 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:59:58 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:59:58 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 10:00:2 AM 
+info: Data imported successfully || timestamp: 13-02-2024 10:00:2 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:01:12 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:01:13 AM 
+info: Blog data import API hit || timestamp: 13-02-2024 10:01:37 AM 
+info: Data imported successfully || timestamp: 13-02-2024 10:01:55 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:08:6 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:08:6 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:09:23 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:09:23 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:10:38 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:10:38 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:11:39 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:11:39 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:18:12 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:18:12 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:19:32 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:19:32 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:23:33 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:23:33 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:24:5 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:24:5 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:24:44 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:24:44 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:24:49 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:24:49 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:28:11 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:28:11 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:28:39 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:28:39 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:30:26 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:30:26 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:30:39 AM 
+info: Success in fetching data || timestamp: 13-02-2024 10:30:39 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:42:42 AM 
+info: Success in fetching data || timestamp: 13-02-2024 10:42:42 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:42:42 AM 
+info: Success in fetching data || timestamp: 13-02-2024 10:42:42 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:46:44 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:47:28 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:47:28 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:47:34 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:48:18 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:48:18 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:48:24 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:48:35 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:48:35 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:48:38 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:48:55 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:48:55 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:48:58 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:49:57 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:49:57 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:50:3 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:50:49 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:50:49 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:50:59 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:53:41 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:53:41 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:53:41 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:53:41 AM 
+info: get individual post hit ... || timestamp: 13-02-2024 10:53:47 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:04:20 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:04:20 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:06:45 AM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 11:06:46 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:11:31 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:11:31 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:11:54 AM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 11:11:55 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:13:2 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:13:2 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:13:52 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:13:52 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:13:56 AM 
+error: Error retrieving analytics data: item is not defined || timestamp: 13-02-2024 11:13:58 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:14:25 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:14:25 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:14:32 AM 
+error: Error retrieving analytics data: Query.prototype.exec() no longer accepts a callback || timestamp: 13-02-2024 11:14:35 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:14:50 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:14:50 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:14:55 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:14:55 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:14:59 AM 
+error: Error retrieving analytics data: Cast to Number failed for value "what-is-a-payment-gateway-and-payment-switch-understanding-the-basics-of-payments-architecture" (type string) at path "post_id" for model "Post" || timestamp: 13-02-2024 11:15:0 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:15:12 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:15:12 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:15:16 AM 
+error: Error retrieving analytics data: The field 'views' must be an array but is of type int in document {_id: ObjectId('65caef9f425b3c1f82839d6a')} || timestamp: 13-02-2024 11:15:18 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:16:58 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:16:58 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:19:4 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:19:4 AM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 11:19:9 AM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 11:19:13 AM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 11:25:27 AM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 11:25:27 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:39:15 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:39:15 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:39:15 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:39:15 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:48:52 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:48:52 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:48:52 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:48:52 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:48:56 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:48:56 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:48:56 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:48:56 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:49:0 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:49:0 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:49:0 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:49:0 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:49:2 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:49:2 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:49:2 AM 
+info: Success in fetching data || timestamp: 13-02-2024 11:49:2 AM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:08:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:08:0 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:08:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:08:0 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:10:12 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:10:12 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:10:12 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:10:13 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:42:57 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:42:57 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:42:57 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:42:57 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:44:16 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:44:16 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:44:16 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:44:16 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:44:33 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:44:33 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:44:33 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:44:33 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:52:35 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:52:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:52:36 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:52:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:57:15 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:57:15 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:57:15 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:57:15 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:59:3 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:59:3 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 12:59:3 PM 
+info: Success in fetching data || timestamp: 13-02-2024 12:59:3 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 1:14:52 PM 
+info: Success in fetching data || timestamp: 13-02-2024 1:14:52 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 1:14:52 PM 
+info: Success in fetching data || timestamp: 13-02-2024 1:14:52 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 1:24:22 PM 
+info: Success in fetching data || timestamp: 13-02-2024 1:24:23 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 1:24:23 PM 
+info: Success in fetching data || timestamp: 13-02-2024 1:24:23 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 4:04:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 4:04:0 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 4:04:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 4:04:0 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 4:44:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 4:44:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 4:44:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 4:44:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 5:08:14 PM 
+info: Success in fetching data || timestamp: 13-02-2024 5:08:14 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 5:08:14 PM 
+info: Success in fetching data || timestamp: 13-02-2024 5:08:14 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 6:14:6 PM 
+info: Success in fetching data || timestamp: 13-02-2024 6:14:6 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 6:14:6 PM 
+info: Success in fetching data || timestamp: 13-02-2024 6:14:6 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 6:30:24 PM 
+info: Success in fetching data || timestamp: 13-02-2024 6:30:24 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 6:30:24 PM 
+info: Success in fetching data || timestamp: 13-02-2024 6:30:24 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 7:21:5 PM 
+info: Success in fetching data || timestamp: 13-02-2024 7:21:5 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 7:21:5 PM 
+info: Success in fetching data || timestamp: 13-02-2024 7:21:5 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:15:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:15:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:15:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:15:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:16:47 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:16:47 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:16:47 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:16:47 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:25:51 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:25:51 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:25:51 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:25:51 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:25:58 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:25:58 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:25:58 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:25:58 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:32:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:32:47 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:38:43 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:39:20 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:41:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:41:56 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:42:11 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:42:43 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:45:0 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:45:0 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:45:8 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:45:10 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:48:11 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:48:11 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:49:7 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:49:7 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:49:44 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:49:44 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:49:52 PM 
+error: Cannot read properties of undefined (reading 'comment_id') || timestamp: 13-02-2024 9:49:53 PM 
+error: Unknown error: Cannot read properties of undefined (reading 'comment_id') || timestamp: 13-02-2024 9:49:53 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:50:5 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:50:5 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:50:8 PM 
+error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:9 PM 
+error: Unknown error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:9 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:50:31 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:50:31 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:50:34 PM 
+error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:34 PM 
+error: Unknown error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:34 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:50:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:50:42 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:50:46 PM 
+error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:47 PM 
+error: Unknown error: Cannot read properties of undefined (reading '__cdata') || timestamp: 13-02-2024 9:50:47 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:52:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:52:4 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:52:20 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:52:20 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:52:24 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:52:39 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:54:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:54:4 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:54:10 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:54:24 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:54:32 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:54:32 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:54:39 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:54:51 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:55:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:55:27 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:55:47 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:55:47 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:55:56 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:56:10 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:56:27 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:56:27 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:56:33 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:56:48 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:56:50 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:56:50 PM 
+info: Blog data import API hit || timestamp: 13-02-2024 9:56:54 PM 
+info: Data imported successfully || timestamp: 13-02-2024 9:57:9 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 9:57:20 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 9:57:20 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:57:37 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:57:37 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:57:37 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:57:37 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:59:19 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:59:19 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:59:25 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:59:25 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 9:59:25 PM 
+info: Success in fetching data || timestamp: 13-02-2024 9:59:25 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:18 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:18 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:21 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:21 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:21 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:21 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:37 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:37 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:39 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:39 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:00:39 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:00:39 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:01:13 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:01:13 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:01:29 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:01:29 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:01:51 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:01:51 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:01:51 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:01:51 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:6 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:6 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:6 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:6 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:23 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:23 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:23 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:23 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:25 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:25 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:25 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:25 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:25 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:26 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:26 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:26 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:28 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:28 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:28 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:28 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:29 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:29 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:29 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:29 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:31 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:32 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:32 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:32 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:34 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:34 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:03:34 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:03:34 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:04:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:04:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:04:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:04:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:05:24 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:05:25 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:09:19 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:09:19 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:09:32 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:09:33 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:09:39 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:09:39 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:09:52 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:09:52 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:09:52 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:09:52 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:11:36 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:11:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:11:46 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:11:46 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:11:46 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:11:46 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:12:24 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:12:24 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:16:52 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:16:52 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:16:53 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:16:53 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:18:41 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:18:41 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:19:24 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:19:24 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:19:44 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:19:44 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:20:3 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:20:3 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:20:10 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:20:10 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:20:48 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:20:49 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:21:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:21:0 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:21:10 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:21:11 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:21:43 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:21:43 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:23:11 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:23:11 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:23:35 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:23:35 PM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 10:27:38 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:27:58 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:27:59 PM 
+info: Google Analytics data API hit.... || timestamp: 13-02-2024 10:30:41 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:30:50 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:31:1 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:31:1 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:31:1 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:31:1 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:32:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:32:53 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:33:4 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:33:4 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:36:30 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:36:30 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:40:53 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:40:53 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:41:18 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:41:18 PM 
+info: Google Analytics location data API hit.... || timestamp: 13-02-2024 10:41:30 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:41:33 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:46:42 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:46:42 PM 
+info: Google Analytics location data API hit.... || timestamp: 13-02-2024 10:47:4 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:47:6 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:48:41 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:48:41 PM 
+info: Google Analytics location data API hit.... || timestamp: 13-02-2024 10:48:44 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:48:47 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:51:56 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:51:56 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:52:20 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:52:20 PM 
+info: Google Analytics location data API hit.... || timestamp: 13-02-2024 10:52:22 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:52:24 PM 
+info: Server is running on port 2000 || timestamp: 13-02-2024 10:54:26 PM 
+warn: DEV-Database connection Successfull || timestamp: 13-02-2024 10:54:26 PM 
+info: Google Analytics location data API hit.... || timestamp: 13-02-2024 10:54:28 PM 
+info: Success retrieving analytics data || timestamp: 13-02-2024 10:54:30 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 10:58:38 PM 
+info: Success in fetching data || timestamp: 13-02-2024 10:58:38 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:00:42 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:00:42 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:01:42 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:01:42 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:03:35 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:03:35 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:04:11 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:04:11 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:05:36 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:05:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:05:48 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:05:48 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:08:13 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:08:13 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:08:13 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:08:13 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:29 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:29 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:29 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:29 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:32 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:32 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:32 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:32 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:36 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:09:36 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:09:36 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:11:49 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:11:49 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:0 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:1 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:1 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:1 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:3 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:4 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:4 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:4 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:6 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:6 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:7 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:7 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:8 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:8 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:16:8 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:16:8 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:20:1 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:20:1 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:20:1 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:20:1 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:20:12 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:20:12 PM 
+info: Fetching Post API hit.... || timestamp: 13-02-2024 11:20:12 PM 
+info: Success in fetching data || timestamp: 13-02-2024 11:20:12 PM 

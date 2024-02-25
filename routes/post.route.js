@@ -1,13 +1,16 @@
 import express from 'express';
-import {getAllPosts} from'../controllers/post.controller.js';
+import { addPost, getAllCategory, getAllPosts,getPost, getPostAuthor, getPostCategory, getTrendingPosts } from'../controllers/post.controller.js';
 
 const router = express.Router();
 
 // Define your routes for posts
-router.get('/', getAllPosts);
-// router.get('/trending', postController.getTrendingPosts);  // New route for trending posts
-// router.get('/:postId', postController.getPostById);
-// router.post('/', postController.createPost);
-// Add more routes as needed
+
+// router.get('/', getAllPosts);
+router.get('/', getPost);
+router.get('/category', getPostCategory);
+router.get('/author', getPostAuthor);
+router.get('/category/all', getAllCategory);
+router.get('/trending', getTrendingPosts);
+router.post('/add', addPost);
 
 export default router;

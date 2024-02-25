@@ -1,5 +1,5 @@
 import express from 'express';
-import { importData } from'../controllers/imoprt.controller.js';
+import { importData } from'../controllers/import.controller.js';
 
 const router = express.Router();
 

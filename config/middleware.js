@@ -1,7 +1,7 @@
 // customMiddleware.js
 export const customMiddleware = (req, res, next) => {
     // Custom response object to maintain consistency
-    res.apiRespond = (status, message, data) => {
+    res.success = (status, message, data) => {
         const statusCode = status || 200
         res.status(statusCode).json({
             status: statusCode,
@@ -11,7 +11,7 @@ export const customMiddleware = (req, res, next) => {
     };
 
     // Custom error response object
-    res.apiError = (status, message, error ) => {
+    res.error = (status, message, error ) => {
         const statusCode = status || 500
         res.status(status).json({
             status: statusCode,

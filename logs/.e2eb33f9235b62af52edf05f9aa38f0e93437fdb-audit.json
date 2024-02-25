@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs/.e2eb33f9235b62af52edf05f9aa38f0e93437fdb-audit.json",
+    "files": [
+        {
+            "date": 1707930014507,
+            "name": "logs/2024-02-14-logfile.log",
+            "hash": "092ade398abd1ded44f65a705ed5a33a0d27e6d57aa1a7602088ee22de2e95ed"
+        },
+        {
+            "date": 1707937800836,
+            "name": "logs/2024-02-15-logfile.log",
+            "hash": "357488fa15e44147b9caf2e39ea5b9f70433afe3574623b42b1e28db81bdb097"
+        },
+        {
+            "date": 1708026300433,
+            "name": "logs/2024-02-16-logfile.log",
+            "hash": "e7372f9e29c66801fbfda17976284177a26d903faf581428bc415d78ad3dc938"
+        },
+        {
+            "date": 1708148082209,
+            "name": "logs/2024-02-17-logfile.log",
+            "hash": "11fd475985777c7450cfc3966f3f873b2b943e5e34ecfd13a75cf701a20111be"
+        },
+        {
+            "date": 1708229952959,
+            "name": "logs/2024-02-18-logfile.log",
+            "hash": "8a2c59ee809d3583f6720fd651afc99315e96d8a266a545e47ef57a18ec9786a"
+        },
+        {
+            "date": 1708318806394,
+            "name": "logs/2024-02-19-logfile.log",
+            "hash": "9280fe175263fa0cd33f697b4b1016aebbc46c31df22b6b06ab6e0d0783e62e4"
+        },
+        {
+            "date": 1708401638021,
+            "name": "logs/2024-02-20-logfile.log",
+            "hash": "fd5bcd8455ddcc8275a712b196670ea0533f64ee5ca6ce47615ccbfd676a7237"
+        },
+        {
+            "date": 1708488430262,
+            "name": "logs/2024-02-21-logfile.log",
+            "hash": "87650c9f8bd960e30f3ec9eaae2cc993f40e2c208438bef123767b3fa646531e"
+        },
+        {
+            "date": 1708598952064,
+            "name": "logs/2024-02-22-logfile.log",
+            "hash": "eeae0c12902db716175bfdaccaaf48584b480c8f1b4ba474d7e209ee5d23deb4"
+        },
+        {
+            "date": 1708673023664,
+            "name": "logs/2024-02-23-logfile.log",
+            "hash": "af741d8fb93d7746cf22c034bfe55cdb0958d726a26e53f37049798167497dd4"
+        }
+    ],
+    "hashType": "sha256"
+}
