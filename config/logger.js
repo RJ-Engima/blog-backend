@@ -4,6 +4,7 @@ import {MongoDB} from 'winston-mongodb';
 import nodemailer from 'nodemailer';
 import pkg from 'winston-mail';
 const { createTransport } = pkg;
+const { combine, timestamp, json, errors, prettyPrint, printf, colorize } = winston.format
 
 // Define log levels with colors
 const customLevels = {
@@ -37,7 +38,7 @@ const fileTransport = new DailyRotateFile({
 
 // Database Transport
 const databaseTransport = new MongoDB({
-  db: 'mongodb://localhost:27017/myapp',
+  db: 'mongodb://localhost:27017/blog',
   level: 'info',
   options: { useUnifiedTopology: true }
 });
@@ -67,10 +68,11 @@ const httpTransport = new winston.transports.Http({
 // Configure Winston logger
 const logger = winston.createLogger({
   levels: customLevels.levels,
-  format: winston.format.combine(
-    winston.format.colorize({ level: true }),
-    winston.format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
-    winston.format.printf(({ level, message, timestamp }) => {
+  format: combine(
+    colorize({ level: true }),
+    timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
+    json(), prettyPrint(), errors(),
+    printf(({ level, message, timestamp }) => {
       if (typeof message === 'object') {
         message = JSON.stringify(message, null, 2);
       }
