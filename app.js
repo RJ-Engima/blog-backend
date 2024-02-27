@@ -15,16 +15,17 @@ import cors from 'cors'
 import { fileURLToPath } from "url";
 import { BetaAnalyticsDataClient } from "@google-analytics/data";
 import cron from 'node-cron'
+import { MongoClient } from 'mongodb';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const analyticsDataClient = new BetaAnalyticsDataClient();
+dotenv.config({ path: path.resolve(__dirname, `${process.env.NODE_ENV}.env`) });
 const app = express();
-dotenv.config();
 
 // Middleware
 const corsOptions = {
-  origin: 'https://rj-blog.vercel.app',
+  origin: process.env.CORS_ORIGIN,
   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
   methods: ["GET", "POST"]
 }
@@ -39,7 +40,9 @@ app.use("/api/users", userRoutes);
 app.use("/api/comments", commentRoutes);
 app.use("/api/import", imoprtRoutes);
 app.set('trust proxy', 1)
-
+app.get('/', (req, res) => {
+  res.send('Hey this is my API running 🥳')
+})
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
@@ -51,16 +54,19 @@ app.use((err, req, res, next) => {
 // });
 
 // Start the server
+const NODE_ENV = process.env.NODE_ENV;
+console.log(NODE_ENV);
+
 app.listen(process.env.PORT, () => {
   logger.info(`Server is running on port ${process.env.PORT}`);
   mongoose
     .connect(process.env.MONGO_URL)
     .then(() => {
-      logger.warn("DEV-Database connection Successfull");
+      logger.warn(`${NODE_ENV.toLocaleUpperCase()}-Database connection Successful`);
     })
     .catch((error) => {
       logger.error(error);
-      logger.error("DEV-Database connection unsuccessfull");
+      logger.error(`${NODE_ENV.toLocaleUpperCase()}-Database connection unsuccessful`);
     });
 });
 
