@@ -1,44 +1,4 @@
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:15:18 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 10:15:18 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 10:15:19 
-[31merror[39m: Error getting posts: Connection to ac-nvilnwj-shard-00-02.bc2e3ap.mongodb.net:27017 interrupted due to server monitor timeout || 2024-02-27 10:21:11 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:21:12 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:21:18 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 10:21:18 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 10:21:20 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:21:32 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:22:22 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:22:34 
-[32minfo[39m: Getting user API hit... || 2024-02-27 10:22:40 
-[32minfo[39m: Getting user API hit... || 2024-02-27 10:22:41 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:22:57 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:23:07 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:35:44 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 10:45:50 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 11:40:59 
-[31merror[39m: Error getting posts: Connection to ac-nvilnwj-shard-00-02.bc2e3ap.mongodb.net:27017 interrupted due to server monitor timeout || 2024-02-27 11:41:37 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 11:41:37 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 11:59:47 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 12:00:01 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 12:26:56 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 12:26:56 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 12:26:57 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 12:27:26 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:35:34 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:35:34 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 15:35:54 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 15:35:54 
-[32minfo[39m: Get Trending Posts API hit ... || 2024-02-27 15:35:54 
-[32minfo[39m: Get individual post hit ... || 2024-02-27 15:35:55 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:41:59 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:41:59 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:46:43 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:46:43 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:46:51 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:46:51 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:46:59 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:46:59 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:48:39 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:48:39 
-[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:50:42 
-[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:50:42 
+[32minfo[39m: Server is running on port 2000 || 2024-02-27 15:55:24 
+[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 15:55:24 
+[32minfo[39m: Server is running on port 2000 || 2024-02-27 16:01:26 
+[33mwarn[39m: DEVELOPMENT-Database connection Successful || 2024-02-27 16:01:26 

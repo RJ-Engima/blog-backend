@@ -62,7 +62,7 @@ const transporter = nodemailer.createTransport({
 const httpTransport = new winston.transports.Http({
   host: 'localhost',
   port: 3000,
-  path: '/logs'
+  // path: '/logs'
 });
 
 // Configure Winston logger
