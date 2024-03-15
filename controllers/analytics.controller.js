@@ -12,7 +12,7 @@ const analyticsDataClient = new BetaAnalyticsDataClient();
 
 
 export const getAnalytics = async (req, res) => {
-  logger.info("Google Analytics data API hit....")
+  logger.info("Google Analytics data API hit.")
   const scopes = [
     "https://www.googleapis.com/auth/analytics.readonly",
     "https://www.googleapis.com/auth/analytics",
@@ -59,7 +59,7 @@ export const getAnalytics = async (req, res) => {
   }
 };
 export const getAnalyticsLocation = async (req, res) => {
-  logger.info("Google Analytics location data API hit....")
+  logger.info("Google Analytics location data API hit.")
   const scopes = [
     "https://www.googleapis.com/auth/analytics.readonly",
     "https://www.googleapis.com/auth/analytics",
@@ -117,7 +117,7 @@ export const getAnalyticsLocation = async (req, res) => {
   }
 };
 export const getAnalyticsTrending = async (req, res) => {
-  logger.info("Google Analytics location data API hit....")
+  logger.info("Google Analytics location data API hit.")
   const scopes = [
     "https://www.googleapis.com/auth/analytics.readonly",
     "https://www.googleapis.com/auth/analytics",

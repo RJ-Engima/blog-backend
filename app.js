@@ -1,3 +1,4 @@
+// server.js
 import express from "express";
 import mongoose from "mongoose";
 import bodyParser from "body-parser";
@@ -5,59 +6,60 @@ import logger from "./config/logger.js";
 import postRoutes from "./routes/post.route.js";
 import userRoutes from "./routes/user.route.js";
 import analyticsRoutes from "./routes/analytics.route.js";
-import imoprtRoutes from "./routes/import.route.js";
-import commentRoutes from "./routes/coment.route.js";
+import importRoutes from "./routes/import.route.js";
+import commentRoutes from "./routes/comment.route.js";
 import dotenv from "dotenv";
 import { customMiddleware } from "./config/middleware.js";
-import serverless from "serverless-http";
 import path from "path";
-import cors from 'cors'
+import cors from 'cors';
 import { fileURLToPath } from "url";
-import { BetaAnalyticsDataClient } from "@google-analytics/data";
-import cron from 'node-cron'
-import { MongoClient } from 'mongodb';
+import { createServer } from "http";
+import { Server as SocketIOServer } from "socket.io";
+
+
+dotenv.config({ path: path.resolve(process.cwd(), `${process.env.NODE_ENV}.env`) });
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const analyticsDataClient = new BetaAnalyticsDataClient();
-dotenv.config({ path: path.resolve(__dirname, `${process.env.NODE_ENV}.env`) });
-const app = express();
 
+const app = express();
+const httpServer = createServer(app);
+const io = new SocketIOServer(httpServer, {
+  cors: {
+    origin: ["https://blog-frontend-0lz0.onrender.com", "http://localhost:5173"],
+    methods: ["GET", "POST"]
+  }
+})
+
+io.on('connection', (socket) => {
+  console.log('A user is connected');
+
+  socket.on('message', (message) => {
+    console.log(`message from ${socket.id} : ${message}`);
+  })
+
+  socket.on('disconnect', () => {
+    console.log(`socket ${socket.id} disconnected`);
+  })
+})
+export {io};
 // Middleware
 const corsOptions = {
-  origin: process.env.CORS_ORIGIN,
-  optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+  origin: ["https://blog-frontend-0lz0.onrender.com", "http://localhost:5173"],
+  optionsSuccessStatus: 200,
   methods: ["GET", "POST"]
-}
-app.use(cors(corsOptions))
+};
+app.use(cors(corsOptions));
 app.use(bodyParser.json({ limit: "50mb" }));
 app.use(bodyParser.urlencoded({ limit: "100mb", extended: false }));
 app.use(customMiddleware);
-// Routes
-app.use("/api/post", postRoutes);
-app.use("/api/analytics", analyticsRoutes);
-app.use("/api/users", userRoutes);
-app.use("/api/comments", commentRoutes);
-app.use("/api/import", imoprtRoutes);
-app.set('trust proxy', 1)
-app.get('/', (req, res) => {
-  res.send('Hey this is my API running 🥳')
-})
-// Error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.apiError("Internal Server Error", 500);
-});
-
-// cron.schedule('* * * * *', () => {
-//   logger.info('running every minute 1, 2, 4 and 5');
-// });
 
 // Start the server
 const NODE_ENV = process.env.NODE_ENV;
-console.log(NODE_ENV);
 
-app.listen(process.env.PORT, () => {
+// Use configureSocket function to configure Socket.IO
+
+httpServer.listen(process.env.PORT, () => {
   logger.info(`Server is running on port ${process.env.PORT}`);
   mongoose
     .connect(process.env.MONGO_URL)
@@ -69,6 +71,21 @@ app.listen(process.env.PORT, () => {
       logger.error(`${NODE_ENV.toLocaleUpperCase()}-Database connection unsuccessful`);
     });
 });
+// socketEmit('login', "helloooo");
 
+// Routes
+app.use("/api/post", postRoutes);
+app.use("/api/analytics", analyticsRoutes);
+app.use("/api/users", userRoutes);
+app.use("/api/comments", commentRoutes);
+app.use("/api/import", importRoutes);
+app.set('trust proxy', 1);
+app.get('/', (req, res) => {
+  res.send('Hey this is my API running 🥳')
+});
 
-export const handler = serverless(app);
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.apiError("Internal Server Error", 500);
+});
